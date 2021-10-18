@@ -1,0 +1,1 @@
+export const OriginsWithConnections = "api/v1/Airport/OriginsWithConnections/en-us"
